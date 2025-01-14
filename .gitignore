@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
+field_mapper_log_*
+
+# Notebooks checkpoints
+notebooks/.ipynb_checkpoints/
+
+# Output directory
+output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+*.bak
